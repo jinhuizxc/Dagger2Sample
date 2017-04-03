@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-nearby-8.4.0">
+    <CLASSES>
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/c5fa0ac19fa443614c92eecbb762e36e76610394/output/res" />
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/c5fa0ac19fa443614c92eecbb762e36e76610394/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

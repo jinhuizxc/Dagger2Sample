@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-wearable-8.4.0">
+    <CLASSES>
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/a27d0dbba5edb48ecb6ccddf5bc29cb899467b09/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/a27d0dbba5edb48ecb6ccddf5bc29cb899467b09/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

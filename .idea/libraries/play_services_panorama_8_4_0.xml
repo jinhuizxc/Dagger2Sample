@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-panorama-8.4.0">
+    <CLASSES>
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/5de998acb2664681e04e8f31e81d5d9b2b14781f/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/5de998acb2664681e04e8f31e81d5d9b2b14781f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

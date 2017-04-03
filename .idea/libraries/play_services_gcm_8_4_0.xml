@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-gcm-8.4.0">
+    <CLASSES>
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/df16014c34536e120be08c390682c575da56b875/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/df16014c34536e120be08c390682c575da56b875/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

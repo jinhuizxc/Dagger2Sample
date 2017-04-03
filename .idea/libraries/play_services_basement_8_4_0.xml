@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-basement-8.4.0">
+    <CLASSES>
+      <root url="file://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/4e3a868eb9069e5ae97f2973cd8b7c491657a9bd/output/res" />
+      <root url="jar://D:/Android/adt-bundle-windows-x86-20140702/.android/build-cache/4e3a868eb9069e5ae97f2973cd8b7c491657a9bd/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
